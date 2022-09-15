@@ -55,7 +55,7 @@ if (!empty($_POST['nome']) && !empty($_POST['cpf']) && !empty($_POST['idade'])  
 
                 <div class="mb-3 form-check d-flex align-items-center">
                     <img src="imagens/markzuckerberg.jfif" width="80px">
-                    <input type="radio" name="voto" id="mark" class="form-check-input" value="MarkZu" style="margin: 0 10px;">
+                    <input type="radio" name="voto" id="mark" class="form-check-input" value="MarkZuckerberg" style="margin: 0 10px;">
                     <label for="mark" class="form-check-label">
                         Mark Zuckerberg
                     </label>
