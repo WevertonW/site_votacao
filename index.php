@@ -67,7 +67,7 @@ if (!empty($_POST['nome']) && !empty($_POST['cpf']) && !empty($_POST['idade'])  
             </div>
             <?php if (isset($usuario) && empty($usuario->erro)) ?>
             <div class="d-grid mb-4 px-3">
-                <a class="btn btn-primary btn-lg" href="relatorio.php" target="_blank" style="max-width:100% ;">Relátorio</a>
+                <a class="btn btn-primary btn-lg" href="relatorio.php" target="_blank" style="max-width:100% ;">Relatório</a>
             </div>
         </form>
     </div>
