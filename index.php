@@ -45,7 +45,7 @@ if (!empty($_POST['nome']) && !empty($_POST['cpf']) && !empty($_POST['idade'])  
                     <input type="text" name="idade" class="form-control form-control-lg bg-light mb-4" value="" required>
                 </div>
 
-                <div class="mb-2 form-check d-flex align-items-center">
+                <div class="mb-3 px-3 form-check d-flex align-items-center">
                     <img src="imagens/billgates.jfif" width="80px">
                     <input type="radio" name="voto" id="bill" class="form-check-input" value="BillGates" style="margin: 0 10px;">
                     <label for="bill" class="form-check-label">
@@ -53,7 +53,7 @@ if (!empty($_POST['nome']) && !empty($_POST['cpf']) && !empty($_POST['idade'])  
                     </label>
                 </div>
 
-                <div class="mb-3 form-check d-flex align-items-center">
+                <div class="mb-3 px-3 form-check d-flex align-items-center">
                     <img src="imagens/markzuckerberg.jfif" width="80px">
                     <input type="radio" name="voto" id="mark" class="form-check-input" value="MarkZuckerberg" style="margin: 0 10px;">
                     <label for="mark" class="form-check-label">
