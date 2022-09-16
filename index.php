@@ -19,14 +19,14 @@ if (!empty($_POST['nome']) && !empty($_POST['cpf']) && !empty($_POST['idade'])  
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Votação</title>
+    <title>Votacao</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body class="bg-primary p-5">
     <div class="container border border-2 rounded-4 p-4 shadow bg-white mb-5" style="max-width: 350px;">
         <form method="post">
-            <h1 class="mb-4 text-center">Votação</h1>
+            <h1 class="mb-4 text-center">Votacao</h1>
             <div>
 
                 <div class="mb-2 px-3">
